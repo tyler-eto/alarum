@@ -1,0 +1,13 @@
+0 0 8 oxygen_tank spare_oxygen_tank_for_your_suit
+0 1 0 painkillers will_automatically_restore_health_if_it_falls_to_zero
+0 2 8 extinguisher i_could_put_out_fires_with_this...
+4 0 0 map map_of_the_wreckage
+0 4 1 blue_rune a_jagged_chunk_of_meteorite_that_glows_with_a_blue_aura
+0 4 30 exosuit usually_used_for_repairs
+2 0 1 red_rune a_smooth_chunk_of_metorite_that_glows_with_a_red_aura
+2 0 1 captain_key_card pretty_sure_this_can_be_used_to_access_the_captain's_private_escape_pod
+3 3 0 painkillers will_automatically_restore_health_if_it_falls_to_zero
+4 1 15 pistol standard_issue_for_SONUM_security
+4 0 10 crowbar right_tool_for_the_job...if_you're_an_engineer
+4 4 1 black_rune a_spherical_piece_of_meteorite_that_stares_back_at_you
+4 4 20 chainsaw used_for_cutting_trees_in_half._looks_like_it_still_works...

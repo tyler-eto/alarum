@@ -1,0 +1,154 @@
+Galley
+the galley. not sure what you'd want to eat in here now.
+counter
+box
+cabinet
+seeing it lying right out in the open, you pick up a'n' <placeholder> from the counter
+a large box sits against the fridge. black liquid is leaking from the fridge soaking the bottom of the box. inside is a'n <placeholder>
+searching the disheveled contents of the sink cabinets, you discover a'n <placeholder> in working order
+nothing on the counter.
+a large box sits against the fridge. black liquid is leaking from the bridge soaking the bottom of the box. inside . nothing.
+is that rotting food? no. that's something else. there's nothing there you need.
+Barracks
+the barracks. we all slept here. even with all the crew members, it felt comfortable back then
+footlocker
+lump in the bedsheets
+suspicious crack in the floor
+searching the broken footlocker, you find a'n <placeholder>. breathe easy
+unready for what you might find, you lift the sheets. a'n <placeholder> rests in the center of the cot
+you wedge up the crack in the floor, you reach into the dark crevice and pull out a'n <placeholder>
+you throw off the broken lock and open the locker: a uniform and a harmonica. nothing of use
+you lift up the sheets. its not what you thought'd it be, but a pile of dirty laundry is nothing useful
+how could anyone have hidden anything in such an open space. must not have stayed hidden for long. its empty
+Lab
+the lab. not sure what they were working on here. the scientists were always a little unsettling
+trash can
+under the desk
+desk drawer
+never thought I'd feel clean rummaging through trash. you find a'n <placeholder>
+a scientist lies dead under the desk, clutching a book that smells like rotting flesh. underneath him you find a'n <placeholder>
+you pull open the drawer. underneath some folders, you find a'n <placeholder>
+the trash has some crumbled pieces of paper with nonsensical glyphs on them? there's nothing here.
+a deceased scientist lies crumbled underneath the desk, something was eating him? i need to leave.
+dang, the drawer seems to be stuck. with a little force, you rip it open. nothing in there
+Engine_2
+the secondary engine room. potentially operational. but with only one...
+under the smoking rubble
+mess of tangled hydraulic pipes
+engine
+pushing aside the fused mass of metal and slime, you wipe off a'n <placeholder>
+they're cold to the touch. you found a'n <placeholder>
+sifting through engine ports, metal shards, and electric wire, you find a'n <placeholder>
+there's a lot to sift through, you don't think there's anything in there
+nothing
+you search through ports and wiring, but you find nothing
+Cpt_Quarters
+the captain's quarters. you've never been inside. she never let on how nice she had it
+her closet
+her desk
+behind the bed
+you push aside the uniforms. far in the back, you discover a'n <placeholder>
+you pull open the drawer, a pair of handcuffs and a'n <placeholder>
+risking the noise, you move the bed. stuck in between the bed and the wall, you find a'n <placeholder>
+you never really saw her wear anything else. makes sense its just full of uniforms. nothing useful
+handcuffs, a ship in a bottle, and a family photo. nothing useful
+peering between the bed and the wall, you don't spot anything
+Engine_1
+the primary engine room. its beyond repair. this ship is going nowhere
+tool bag
+the captain
+engine
+you open the bag and pull out a'n <placeholder>
+why'd she come here? resting beside the captain is a'n <placeholder>
+familiar territory, you rifle through the engine and pull out a'n <placeholder>
+the tool bag is empty
+slumped in such a mangled manner, you search the captain for anything. you find nothing and feel terrible
+there's a lot to sift through, you don't think there's anything in there
+Black_Hole
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+War_Room
+the war room. scrawled in red over the large table are the words: "'such terrifying vistas of reality' and our 'frighful position therein', we shall flee the light and pursue a new 'Dark Age'". in the center of the table is a symbol: three circles (red, blue, and black) surrounding a larger black circle. "runes" is crudely etched beside the symbol..
+the table
+dead crew members
+overhead
+at the end of the table, a'n <placeholder>!
+you summon your strength to gently move your fellow shipmates. you find a'n <placeholder>
+standing on a chair, you pull down a piece of the ceiling. out drops a'n <placeholder>
+there's nothing on the table
+you're not sure what you'd find, but you push aside the bodies. your hands are dirty and you come up with nothing
+pulling chairs together, you pull down a piece of the ceiling. someone had wedged himself up there. you step down
+Core
+the core of the ship. you're pretty sure the crash that woke you was the core imploding
+maintenance board
+core shaft
+chief engineer office
+smoke emanates from the board. you check behind it and find a'n <placeholder>
+its a long way down. dangling over the edge is a'n <placeholder>
+the door is jammed on something, you can see blood coming from the under the door. kicking in the door, you find a'n <placeholder>
+sparks fly from the board but you open the panel. nothing
+the implosion destroyed most everything around it. you don't find anything
+the office door's kicked in. the chief engineer didn't want to fight anymore. office is empty
+Garage
+the garage. all of the escape pods have been jettisoned or destroyed, except the captain's pod. down with the ship
+the rover
+spare suits
+decontamination shower
+inside the rover, there's a man babbling to himself about being all alone on mars. you reach over him and grab a'n <placeholder>
+you check the pockets of the suits. nothing. but sitting beside them is a'n <placeholder>
+inside the shower, you find a'n <placeholder>
+a babbling man sits in the driver's seat. he fails to acknowledge you, so you look inside. just potatoes... 
+just children's sizes left. nothing
+you peek in the shower, a steady drip threatens your composure. you don't find anything and close the curtain
+Rec_Area
+the rec area, the most bloodshed happened in here. the horrors are getting too much. its up to your ankles
+backpack
+side panel
+burnt huddle
+you unzip the large backpack. who did this belong to, there's a'n <placeholder> inside it
+you lift back the panel, inside is a shaking child with blonde stringy hair. she won't take your hand, but she gives you a'n <placeholder>
+you push aside masses of bone and ash. you dust off a'n <placeholder>
+the backpack is full of strange drawings. a child has drawn a humanoid figure, larger than a planet, with tentacles that engulf the globe
+you lift back the panel, inside is a shaking child with blonde stringy hair. she bites at your hand when you reach for her. you close up her hiding spot
+the crackling intensifies as you push bones aside. the smell...you can't keep looking
+Bridge
+the bridge. you look out the curved window. you've woken up to a nightmare
+command chair
+comms terminal
+pilots chair
+as if thrown on the command chair, you find a'n <placeholder>
+you dislodge the grasp of the deceased crewmember slouched across the terminal. hidden under her is a'n <placeholder>
+you grab the <placeholder> thats stashed under the chair
+it doesn't feel like you thought. there's nothing
+you catch a glimpse of your reflection in the screen. you're not all there
+you're in total control of..a broken ship drifting through space. nothing
+Armory
+the armory. the place must've been raided in the confusion and insanity.
+locker
+duffle bag
+bullet strewn crewmember
+the locker has been busted open, you find a'n <placeholder> inside
+you find a'n <placeholder> inside the duffle bag surrounded by security uniforms
+not sure what this person did to deserve this. upon closer inspection, the blood hides strange markings etched all across his body. he's covering a'n <placeholder>
+you peek inside the busted locker. there's nothing inside
+you empty the duffle bag. nothing useful
+he's smiling. unsettled, your eyes follow strange markings that carve pathways across his entire body. you don't find anything
+Biome
+the biome. closest thing to earth on SONUM. however, here in the garden, organic material seems to warp into hideous configurements near the black hole
+bio-material
+unrecognizable mass
+tree trunk
+you find a'n <placeholder> within the detritus from the biome. the rotting leaves have such a familiar scent
+an undulating mass sits before you. you plunge your arm inside and pull out a'n <placeholder>
+someone has hacked away at a treen trunk and placed something inside. you find a'n <placeholder>
+its empty
+an undulating mass sits before you. you plunge your arm inside and pull out...a tooth? you throw it away.
+whatever someone had hidden in this trunk has been taken
